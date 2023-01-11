@@ -1,1 +1,2 @@
-This is file2 in master branch
+This is file2 in master branch and dev branch
+
