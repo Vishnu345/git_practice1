@@ -1,3 +1,3 @@
 This is file2 in master branch and dev branch
 
-Hi I am vishnu
+Hi I am vishnu How are you?
