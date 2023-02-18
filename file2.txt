@@ -1,2 +1,4 @@
 This is file2 in master branch and dev branch
 
+Hi how are you?
+
